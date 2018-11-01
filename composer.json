@@ -1,5 +1,5 @@
 {
-    "name": "laravel-admin-ext/ckeditor",
+    "name": "user771908231-ext/ckeditor",
     "description": "Integrate CKEDITOR into laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension", "editor", "CKEditor"],
@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "encore/laravel-admin": "~1.6"
+        "user771908231/laravel-admin": "~1.6"
     },
     "require-dev": {
         "phpunit/phpunit": "~6.0"
