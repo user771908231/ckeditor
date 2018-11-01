@@ -3,17 +3,17 @@
     "description": "Integrate CKEDITOR into laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension", "editor", "CKEditor"],
-    "homepage": "https://github.com/laravel-admin-ext/ckeditor",
+    "homepage": "https://github.com/user771908231/ckeditor",
     "license": "MIT",
     "authors": [
         {
-            "name": "song",
-            "email": "zosong@126.com"
+            "name": "Franco",
+            "email": "771908231@qq.com"
         }
     ],
     "require": {
         "php": ">=7.0.0",
-        "user771908231/laravel-admin": "~1.6"
+        "user771908231/laravel-admin": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "~6.0"
